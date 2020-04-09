@@ -32,7 +32,5 @@ end
 
 end
 
-def new (name, artist, genre)
-  
-end 
+hit_me = Song.new
   
