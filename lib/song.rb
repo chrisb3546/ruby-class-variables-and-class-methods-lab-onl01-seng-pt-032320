@@ -25,7 +25,7 @@ def self.genres
 end
 
 def self.artists
-  @@artists = [] << artist
+  @@artists << artist
 end 
 
 def self.genre_count
