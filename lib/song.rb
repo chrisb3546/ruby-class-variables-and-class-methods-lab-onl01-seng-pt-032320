@@ -35,7 +35,7 @@ end
 end
 
 
-hit_me = Song.new(@name, @artist, @genre)
+
 
 
   
