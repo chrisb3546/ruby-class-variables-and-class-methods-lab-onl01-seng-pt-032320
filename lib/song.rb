@@ -15,7 +15,7 @@ end
 
 
 @@genres = []
-@@artists = []
+
 
 
 
