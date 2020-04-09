@@ -3,7 +3,7 @@ class Song
   
   attr_accessor :name, :artist, :genre
 
-Vdef initialize(name, artist, genre)
+def initialize(name, artist, genre)
  # @@count +=1
   #@@genres =[]
   #@@artists = []
