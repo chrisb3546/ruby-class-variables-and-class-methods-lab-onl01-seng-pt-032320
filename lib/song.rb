@@ -32,5 +32,5 @@ end
 
 end
 
-hit_me = Song.new
+hit_me = Song.new(name, )
   
