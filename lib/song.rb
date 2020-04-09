@@ -17,9 +17,6 @@ end
 @@genres = []
 
 
-
-
-
 def self.count
   @@count +=1
 end 
