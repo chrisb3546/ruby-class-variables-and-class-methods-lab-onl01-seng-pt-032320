@@ -33,5 +33,6 @@ end
 end
 
 def new (name, artist, genre)
+  
 end 
   
