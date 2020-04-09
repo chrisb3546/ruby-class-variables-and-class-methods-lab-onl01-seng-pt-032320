@@ -29,5 +29,6 @@ end
 
 end
 
-def new 
+def new (name, artist, genre)
+end 
   
