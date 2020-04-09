@@ -24,7 +24,7 @@ def self.genres
   @@genres << genre
 end
 
-def self.artists
+def self.artist
   @@artists << artist
 end 
 
